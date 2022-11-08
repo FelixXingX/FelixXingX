@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixxingx&label=Profile%20views&color=0e75b6&style=flat" alt="felixxingx" /> </p>
 
-- 🔭 I’m currently working on [Project Lina](https://github.com/WTIOFlameburst/Project-Luna)
+- 🔭 I’m currently working on [Project Luna](https://github.com/WTIOFlameburst/Project-Luna)
 
 - 🌱 I’m currently learning **C++**
 
